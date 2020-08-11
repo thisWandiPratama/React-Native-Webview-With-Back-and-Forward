@@ -1,0 +1,21 @@
+{
+  "name": "rnwebviewbackforward",
+  "version": "1.0.1",
+  "description": "react native webview with button back and forward",
+  "main": "index.js",
+  "scripts": {
+    "test": "wandi99pratama@gmail.com"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "webview",
+    "back",
+    "forward"
+  ],
+  "author": "wandi pratama",
+  "license": "ISC",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.62.0"
+  }
+}
