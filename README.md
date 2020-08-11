@@ -1,4 +1,4 @@
-Package for React Native WebView With Button Back and Forward.
+Package for React Native WebView With Button Back and Forward. [NPM Package](https://www.npmjs.com/package/rnwebviewbackforward) 
 
 # Install
 
